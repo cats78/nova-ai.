@@ -1,0 +1,7 @@
+{
+  "name": "nova-ai-1-1",
+  "version": "1.1.0",
+  "private": true,
+  "description": "NOVA AI 1.1 — instant answers with optional web lookup",
+  "engines": { "node": ">=18" }
+}
